@@ -111,10 +111,10 @@ A hybrid deep learning model:
 ## 🖼️ User Interface Preview
 
 ### 🎥 Input Form
-![UI Input Screenshot](screenshots/form_ui.jpeg)
+![UI Input Screenshot](assets/form_ui.jpg)
 
 ### 🍿 Recommendation Table
-![Recommendations Screenshot](assets/recommendations_ui.jpeg)
+![Recommendations Screenshot](assets/recommendations_ui.jpg)
 
 > Modern Netflix-style layout with genre selection, star-based ratings, and responsive design.
 
