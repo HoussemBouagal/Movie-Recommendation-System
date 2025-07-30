@@ -23,7 +23,7 @@ Technologies used:
 ## 📂 Project Structure
 
 ```
-Movie-Recommender-System/
+Movie-Recommendation-System/
 ├── assets/                     # Images for documentation (UI, graphs, etc.)
 ├── mae_plot.png                # MAE curve
 ├── loss_plot.png               # Loss curve
