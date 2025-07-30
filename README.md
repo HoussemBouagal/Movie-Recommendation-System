@@ -34,7 +34,7 @@ Movie-Recommender-System/
 
 ├── model/  
 ├── hybrid_recommender_model.h5 # Trained model
-├── encodings.pkl              # Encoded user/movie/genre dictionaries
+├── encodings.pkl               # Encoded user/movie/genre dictionaries
 
 ├── dataset/
 │   ├── movies.dat
